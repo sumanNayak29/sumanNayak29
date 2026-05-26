@@ -1,6 +1,6 @@
 # Hi, I'm Suman Nayak 👋 &nbsp; ![Open to work](https://img.shields.io/badge/Open%20to%20work-brightgreen)
 
-Frontend Engineer with 3.5+ years building production-grade data visualization tools at **Lumel Technologies** — the #1 Power BI AppSource Partner. I specialize in React, TypeScript, and Canvas/SVG rendering for high-performance chart components.
+Frontend Engineer with 3.7+ years building production-grade data visualization tools at **Lumel Technologies** — the #1 Power BI AppSource Partner. I specialize in React, TypeScript, and Canvas/SVG rendering for high-performance chart components.
 
 Currently expanding into full-stack development with **Next.js**, **Node.js**, and **Express**.
 
